@@ -22,6 +22,7 @@
 ## Step6: sharpening
 ![step6_sharpening](https://user-images.githubusercontent.com/29944979/31849922-aa3f7b22-b674-11e7-8302-1bf593c25e3e.jpg)
 
+#### Howto
 command >> final
 Perform a complete process
 input: src in code
